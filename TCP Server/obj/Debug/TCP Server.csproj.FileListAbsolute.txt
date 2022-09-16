@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\bin\Debug\TCP Server.exe.config
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\bin\Debug\TCP Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\bin\Debug\TCP Server.pdb
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\bin\Debug\SimpleTCP.dll
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP Server.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP Server.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP Server.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Server\obj\Debug\TCP Server.pdb

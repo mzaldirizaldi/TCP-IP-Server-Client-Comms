@@ -1,0 +1,25 @@
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe.config
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\bin\Debug\TCP Client Server.pdb
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\bin\Debug\SimpleTCP.dll
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client Server\obj\Debug\TCP Client Server.pdb
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\bin\Debug\TCP Client Server.exe.config
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\bin\Debug\TCP Client Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\bin\Debug\TCP Client Server.pdb
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\bin\Debug\SimpleTCP.dll
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP_Client_Server.Form1.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP_Client_Server.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client Server.exe
+C:\Users\LENOVO\source\repos\16 September 2022\TCP Client Server\TCP Client\obj\Debug\TCP Client Server.pdb
